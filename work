@@ -1,0 +1,5 @@
+#!/bin/bash/
+
+  echo "*** going to work ***"
+  cd /Users/KINGSLAYER/workspace
+
