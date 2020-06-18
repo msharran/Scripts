@@ -5,13 +5,6 @@ function work(){
 }
 export work
 
-function dream(){
-	echo "‹‹ DreamWaves Projects ››"
-	cd /Users/KINGSLAYER/Documents/workspace/DreamWaves\ Projects;
-	ls -l;
-}
-export dream
-
 function restart_postgres(){
 	brew services stop postgresql;
 	rm /usr/local/var/postgres/postmaster.pid;
